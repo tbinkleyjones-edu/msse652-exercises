@@ -11,6 +11,4 @@
 
 @interface ProgramSvcJson : NSObject <ProgramSvc, NSURLConnectionDelegate>
 
-- (NSMutableArray *) retrievePrograms;
-
 @end

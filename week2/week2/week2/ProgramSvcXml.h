@@ -10,6 +10,4 @@
 
 @interface ProgramSvcXml : NSObject <NSXMLParserDelegate>
 
-- (NSMutableArray *) retrievePrograms;
-
 @end
