@@ -1,0 +1,12 @@
+# Uncomment this line to define a global platform for your project
+platform :ios, "7.0"
+pod "AFNetworking", "~>2.0"
+
+#target "week3" do
+#
+#end
+
+#target "week3Tests" do
+#
+#end
+
